@@ -10,6 +10,6 @@ GNOME(그놈)/UNITY(유니티) 둘다 호환됩니다.<br>
 # 설치 방법
 터미널에서<br>
 git clone https://github.com/kgu090716/Theme-for-ubuntu.git<br>
-cd ~/Theme for ubuntu<br>
+cd ~/Theme-for-ubuntu<br>
 chmod +x *<br>
 ./install.sh<br>
